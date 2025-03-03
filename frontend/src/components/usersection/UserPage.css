@@ -1,0 +1,10 @@
+.textandbutton {
+    display: flex;
+    justify-content: space-between;
+}
+
+.createpostbutton {
+    font-size: 0.6rem !important;
+    margin-right: 2rem !important;
+    background-color: indigo !important;
+}
